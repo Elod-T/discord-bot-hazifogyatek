@@ -1,0 +1,14 @@
+# files
+.vscode
+.env
+.env.local
+package-lock.json
+yarn.lock
+
+# folders
+build
+node_modules
+
+.history
+docker-compose.yml
+bot.tar
